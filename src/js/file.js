@@ -1,6 +1,6 @@
-function liam () {
-    let num = 5;
-    console.log('number ' + num);
+function liam() {
+    let liam = "Liam O'Donnell";
+    console.log(`${liam} is in the building!`);
 }
 
 liam();
